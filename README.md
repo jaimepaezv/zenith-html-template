@@ -5,7 +5,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/jaimepaezv/zenith-html-template?style=social)](https://github.com/jaimepaezv/zenith-html-template/network/members)
 
 <!-- Replace with a screenshot or demo link if available -->
-![Zenith Template Preview](assets/images/banner/banner-image-1.png)
+![Zenith Template Preview](main/assets/images/banner/banner-image-0.jpg)
 
 ## Description
 
