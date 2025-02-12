@@ -5,7 +5,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/jaimepaezv/zenith-html-template?style=social)](https://github.com/jaimepaezv/zenith-html-template/network/members)
 
 <!-- Replace with a screenshot or demo link if available -->
-![Zenith Template Preview](main/assets/images/banner/banner-image-0.jpg)
+![Zenith Template Preview](main/assets/images/banner/banner-0.jpg)
 
 ## Description
 
@@ -46,7 +46,7 @@ This template is **fully responsive**, ensuring it looks great on all devices, f
 ## Demo
 
 <!-- Replace with your live demo URL if you have deployed it -->
-[**View Live Demo**](https://your-demo-link.com/zenith-html-template) *(Coming Soon/Replace with your demo link)*
+[**View Live Demo**](# *(Coming Soon)*
 
 If you haven't deployed it yet, you can simply open the `index.html` file in your web browser after downloading to see the template locally.
 
